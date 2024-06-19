@@ -1,1 +1,1 @@
-# asset-playground-starter-template
+# Asset Playground Starter Template
